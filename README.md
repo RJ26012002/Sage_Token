@@ -1,1 +1,1 @@
-# Sage_Token
+Developed my own Cryptocurrency Token : Sage Token on Ethereum Test network with the help of Blockchain Technology . This  virtual currency token will represents a tradable asset or utility that resides on its own blockchain and allows the holder to use it for investment or economic purposes. The value of each token will depend on it’s use and it can be exchanged with any currency  and then further can be used for many purposes .  With the help of blockchain technology it will be easy for a user to trade this token and use it in many ways .
